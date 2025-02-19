@@ -3,8 +3,7 @@
 <img src="IMG_5786.jpg" alt="banner"> 
 
 ### About Me
-Hi, I'm Avery. I am currently a Year 11 student at Western Springs College. I'm fifteen years old, and I also have three younger siblings.  
-I was born in the UK. In my free time, I enjoy gaming and photography.
+Hi, I'm Avery. I am currently a Year 11 student at Western Springs College. I'm fifteen years old, and I also have three younger siblings. I was born in the UK. In my free time, I enjoy gaming and photography.
 
 -------
 ### Why I Take Digital Tech
